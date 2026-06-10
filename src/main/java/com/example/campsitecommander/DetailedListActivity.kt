@@ -23,6 +23,7 @@ class DetailedListActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
+
         // Get list from MainActivity
         val gearList = intent.getParcelableArrayListExtra<GearItem>("GEAR_LIST") ?: arrayListOf()
 

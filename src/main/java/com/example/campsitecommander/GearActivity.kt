@@ -24,7 +24,6 @@ class GearActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-
         // UI Elements
         val etItemName: EditText = findViewById(R.id.etItemName)
         val spCategory: Spinner = findViewById(R.id.spCategory)
