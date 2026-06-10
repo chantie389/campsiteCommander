@@ -22,8 +22,11 @@ Technology Used
 
 
 a pseudocode
+
 // DATA MODEL
+
 CLASS GearItem
+
     PROPERTIES:
         itemName: String
         category: String
