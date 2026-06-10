@@ -77,7 +77,7 @@ END PROCEDURE
 ## 📸 App Screenshots
 
 ### Add Gear Screen
-![Add Gear Screen](WhatsApp Image 2026-06-10 at 14.19.43.jpeg)
+![WhatsApp Image 2026-06-10 at 14.19.43.jpeg]
 
 ### Splash Screen
 ![Splash Screen](PASTE_YOUR_IMAGE_LINK_HERE)
