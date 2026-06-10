@@ -80,13 +80,13 @@ END PROCEDURE
 ![Main Screen](main activity.jpeg)
 
 ### Gear Screen
-![Add Gear Screen](data class.jpeg)
+![Add Gear Screen](gear activity.jpeg)
 
 ### Detailed List Screen
 ![Detailed List](full_list.png)
 
 ### Splash Screen
-![Splash Screen](splash_screen.png)
+![Splash Screen]()
 
 
     AUTOMATICALLY open Main screen
