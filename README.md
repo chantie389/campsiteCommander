@@ -20,3 +20,59 @@ Technology Used
 - **Data Management:** Parcelable interface for transferring objects between screens
 - **Minimum SDK:** Android 8.0 (API 26)
 
+
+a pseudocode
+// DATA MODEL
+CLASS GearItem
+    PROPERTIES:
+        itemName: String
+        category: String
+        quantity: Integer
+        comment: String
+END CLASS
+
+// MAIN SCREEN
+PROCEDURE MainActivity
+    INITIALIZE empty list of GearItem
+    ADD sample items to list on startup
+    DISPLAY total number of items
+
+    ON "Add New Gear" button click:
+        OPEN Add Gear screen
+        WAIT for result
+
+    ON "View Full List" button click:
+        SEND list to Detailed List screen
+        OPEN Detailed List screen
+
+    ON receiving new item from Add Gear screen:
+        ADD item to list
+        UPDATE total item count display
+END PROCEDURE
+
+// ADD GEAR SCREEN
+PROCEDURE AddGearActivity
+    DISPLAY input form: name, category, quantity, notes
+
+    ON "Save" button click:
+        READ input values
+        VALIDATE: name not empty, quantity is positive number
+        IF invalid: SHOW error message
+        ELSE:
+            CREATE new GearItem object
+            RETURN item to Main screen
+            CLOSE screen
+END PROCEDURE
+
+// DETAILED LIST SCREEN
+PROCEDURE DetailedListActivity
+    RECEIVE list of GearItem
+    BUILD formatted text showing all item details
+    DISPLAY full list
+END PROCEDURE
+
+// SPLASH SCREEN
+PROCEDURE SplashActivity
+    DISPLAY app name for 3 seconds
+    AUTOMATICALLY open Main screen
+END PROCEDURE
