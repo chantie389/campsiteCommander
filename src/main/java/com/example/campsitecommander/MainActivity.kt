@@ -26,6 +26,7 @@ import androidx.core.view.updatePadding
 class MainActivity : AppCompatActivity() {
     private lateinit var gearList: MutableList<GearItem>
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
