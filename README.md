@@ -86,10 +86,6 @@ END PROCEDURE
 ![GearItem Class](PASTE_YOUR_IMAGE_LINK_HERE)
 
 ### Main Screen
-![Main Screen](PASTE_YOUR_IMAGE_LINK_HERE)
-
-// SPLASH SCREEN
-PROCEDURE SplashActivity
-    DISPLAY app name for 3 seconds
+![Main Screen](PASTE_YOUR_IMAGE_LINK HERE)
     AUTOMATICALLY open Main screen
 END PROCEDURE
