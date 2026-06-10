@@ -77,16 +77,16 @@ END PROCEDURE
 ##  App Screenshots
 
 ### Main Screen
-![main activity](main activity.jpeg)
+![main screen](mainactivity.jpeg)
 
 ### Gear Screen
-![gear activity](gear activity.jpeg)
+![gear screen](gearactivity.jpeg)
 
 ### Data class Screen
-![data class](data class .jpeg)
+![data class screen](dataclass.jpeg)
 
 ### Splash Screen
-![splash activity](splash activity.jpeg)
+![splash screen](splashactivity.jpeg)
 
 
     AUTOMATICALLY open Main screen
