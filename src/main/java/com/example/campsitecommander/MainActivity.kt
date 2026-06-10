@@ -26,16 +26,13 @@ import androidx.core.view.updatePadding
 class MainActivity : AppCompatActivity() {
     private lateinit var gearList: MutableList<GearItem>
 
-
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
-
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
-            v.updatePadding(top = systemBars.top, bottom = systemBars.bottom)
+            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
 
@@ -59,7 +56,7 @@ class MainActivity : AppCompatActivity() {
 
         // Navigate to Add Gear screen
         btnAddGear.setOnClickListener {
-            val intent = Intent(this, AddGearActivity::class.java)
+            val intent = Intent(this, GearActivity::class.java)
             startActivityForResult(intent, 100)
         }
 

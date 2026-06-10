@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Category list for the spinner dropdown -->
+    <string-array name="categories">
+        <item>Shelter</item>
+        <item>Cooking</item>
+        <item>Food</item>
+        <item>First Aid</item>
+        <item>Safety</item>
+        <item>Clothing</item>
+        <item>Tools</item>
+        <item>Lighting</item>
+    </string-array>
+</resources>
