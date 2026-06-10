@@ -77,7 +77,7 @@ END PROCEDURE
 ##  App Screenshots
 
 ### Main Screen
-![Main Screen]()
+![Main Screen](main activity.jpeg)
 
 ### Gear Screen
 ![Add Gear Screen](data class.jpeg)
