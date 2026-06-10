@@ -74,16 +74,6 @@ PROCEDURE DetailedListActivity
     DISPLAY full list
 END PROCEDURE
 
-## 📸 App Screenshots
-
-### Add Gear Screen
-![WhatsApp Image] (WhatsAppImage2026-06-10 at 14.19.43.jpeg]
-
-### Splash Screen
-![WhatsApp Image](PASTE_YOUR_IMAGE_LINK_HERE)
-
-### Gear Item Data Model class
-![GearItem Class](PASTE_YOUR_IMAGE_LINK_HERE)
 
 ### Main Screen
 ![Main Screen](PASTE_YOUR_IMAGE_LINK HERE)
