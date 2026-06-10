@@ -86,7 +86,7 @@ END PROCEDURE
 ![Detailed List](full_list.png)
 
 ### Splash Screen
-![Splash Screen]()
+![Splash Screen](splash activity.jpeg)
 
 
     AUTOMATICALLY open Main screen
