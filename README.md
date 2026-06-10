@@ -89,5 +89,4 @@ END PROCEDURE
 ![splash screen](https://github.com/chantie389/campsiteCommander/blob/c38577b8b2adde760aea442a77b587e13b1e05e0/splash%20activity.jpeg)
 
 
-    AUTOMATICALLY open Main screen
-END PROCEDURE
+ 
