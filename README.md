@@ -74,8 +74,5 @@ PROCEDURE DetailedListActivity
     DISPLAY full list
 END PROCEDURE
 
-
-### Main Screen
-![Main Screen](PASTE_YOUR_IMAGE_LINK HERE)
     AUTOMATICALLY open Main screen
 END PROCEDURE
