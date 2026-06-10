@@ -77,10 +77,10 @@ END PROCEDURE
 ##  App Screenshots
 
 ### Main Screen
-![Main Screen](main_screen.png)
+![Main Screen]()
 
-### Add Gear Screen
-![Add Gear Screen](data class .jpeg)
+### Gear Screen
+![Add Gear Screen](data class.jpeg)
 
 ### Detailed List Screen
 ![Detailed List](full_list.png)
