@@ -80,7 +80,7 @@ END PROCEDURE
 ![Main Screen](main_screen.png)
 
 ### Add Gear Screen
-![Add Gear Screen](add_gear.png)
+![Add Gear Screen](data class .jpeg)
 
 ### Detailed List Screen
 ![Detailed List](full_list.png)
