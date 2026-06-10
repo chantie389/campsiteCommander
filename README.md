@@ -82,8 +82,8 @@ END PROCEDURE
 ### Gear Screen
 ![Add Gear Screen](gear activity.jpeg)
 
-### Detailed List Screen
-![Detailed List](full_list.png)
+### Data list Screen
+![Detailed List](data class .jpeg)
 
 ### Splash Screen
 ![Splash Screen](splash activity.jpeg)
