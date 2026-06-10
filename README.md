@@ -2,6 +2,7 @@ Campsite Commander
 Android Camping Packing List Application
 
  Purpose
+ 
 Campsite Commander is a simple mobile application designed to help campers organize and track their camping gear. The app ensures users do not forget essential items for their trip, making packing easier and less stressful.
 
  Features
