@@ -83,7 +83,7 @@ END PROCEDURE
 ![gear screen](https://github.com/chantie389/campsiteCommander/blob/91ae0e784faa78eb345fec227795b121a5a365b4/gear%20activity.jpeg)
 
 ### Data class Screen
-![data class screen]()
+![data class screen](https://github.com/chantie389/campsiteCommander/blob/fa8f142db4435caeedc7e8a4439162783f97d46a/data%20class%20.jpeg)
 
 ### Splash Screen
 ![splash screen](https://github.com/chantie389/campsiteCommander/blob/c38577b8b2adde760aea442a77b587e13b1e05e0/splash%20activity.jpeg)
