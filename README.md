@@ -21,7 +21,7 @@ Technology Used
 - **Minimum SDK:** Android 8.0 (API 26)
 
 
-a pseudocode
+**A Pseudocode**
 
 // DATA MODEL
 
@@ -73,6 +73,21 @@ PROCEDURE DetailedListActivity
     BUILD formatted text showing all item details
     DISPLAY full list
 END PROCEDURE
+
+##  App Screenshots
+
+### Main Screen
+![Main Screen](main_screen.png)
+
+### Add Gear Screen
+![Add Gear Screen](add_gear.png)
+
+### Detailed List Screen
+![Detailed List](full_list.png)
+
+### Splash Screen
+![Splash Screen](splash_screen.png)
+
 
     AUTOMATICALLY open Main screen
 END PROCEDURE
