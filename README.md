@@ -74,6 +74,28 @@ PROCEDURE DetailedListActivity
     DISPLAY full list
 END PROCEDURE
 
+
+
+# Campsite Commander
+**Android Camping Packing List Application**
+
+---
+
+## 📸 App Screenshots
+
+### Add Gear Screen
+![Add Gear Screen](PASTE_YOUR_IMAGE_LINK_HERE)
+
+### Splash Screen
+![Splash Screen](PASTE_YOUR_IMAGE_LINK_HERE)
+
+### Gear Item Data Model
+*(You can also add code screenshots like this)*
+![GearItem Class](PASTE_YOUR_IMAGE_LINK_HERE)
+
+### Main Screen
+![Main Screen](PASTE_YOUR_IMAGE_LINK_HERE)
+
 // SPLASH SCREEN
 PROCEDURE SplashActivity
     DISPLAY app name for 3 seconds
