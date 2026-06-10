@@ -74,13 +74,6 @@ PROCEDURE DetailedListActivity
     DISPLAY full list
 END PROCEDURE
 
-
-
-# Campsite Commander
-**Android Camping Packing List Application**
-
----
-
 ## 📸 App Screenshots
 
 ### Add Gear Screen
