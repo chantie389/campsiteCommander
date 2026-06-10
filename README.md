@@ -89,8 +89,7 @@ END PROCEDURE
 ### Splash Screen
 ![Splash Screen](PASTE_YOUR_IMAGE_LINK_HERE)
 
-### Gear Item Data Model
-*(You can also add code screenshots like this)*
+### Gear Item Data Model class
 ![GearItem Class](PASTE_YOUR_IMAGE_LINK_HERE)
 
 ### Main Screen
