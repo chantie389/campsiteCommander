@@ -77,10 +77,10 @@ END PROCEDURE
 ##  App Screenshots
 
 ### Main Screen
-![main screen](mainActivity.jpeg)
+![main screen]()
 
 ### Gear Screen
-![gear screen](gearActivity.jpeg)
+![gear screen](https://github.com/chantie389/campsiteCommander/blob/91ae0e784faa78eb345fec227795b121a5a365b4/gear%20activity.jpeg)
 
 ### Data class Screen
 ![data class screen](dataClass.jpeg)
