@@ -84,7 +84,7 @@ END PROCEDURE
 ## 📸 App Screenshots
 
 ### Add Gear Screen
-![Add Gear Screen](PASTE_YOUR_IMAGE_LINK_HERE)
+![Add Gear Screen](WhatsApp )
 
 ### Splash Screen
 ![Splash Screen](PASTE_YOUR_IMAGE_LINK_HERE)
